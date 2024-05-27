@@ -1,8 +1,8 @@
-# Harvestify - Human-Disease Predictor Web App
+# Harvestify - Plant-Disease Predictor Web App
 
 ## Overview
 
-Harvestify is a web application that allows users to predict human-disease and get crop and fertilizer recommendations based on input parameters. This app is designed to help farmers and gardeners make informed decisions about their crops and manage plant diseases effectively.
+Harvestify is a web application that allows users to predict Plant-disease and get crop and fertilizer recommendations based on input parameters. This app is designed to help farmers and gardeners make informed decisions about their crops and manage plant diseases effectively.
 
 The application is divided into three main features:
 
