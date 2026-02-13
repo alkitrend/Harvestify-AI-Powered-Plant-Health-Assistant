@@ -37,7 +37,7 @@ To use the web application, follow these steps:
 
 If you want to run the app locally, follow these steps:
 
-1. Clone the repository from [GitHub](https://github.com/MGJillaniMughal/Harvestify-Full-End-to-End-Project).
+1. Clone the repository from [GitHub](https://github.com/alkitrend/Harvestify-Full-End-to-End-Project).
 2. Install the required Python libraries using `pip install -r requirements.txt`.
 3. Run the app locally using `python app.py`.
 
@@ -51,7 +51,7 @@ Note: The app might require an API key for weather data. Make sure to create a `
 
 ## Contributors
 
-- [Jillani SoftTech](https://github.com/MGJillaniMughal) - Project Developer and Maintainer
+- [Jillani SoftTech](https://github.com/alkitrend) - Project Developer and Maintainer
 
 ## Issues and Contributions
 
@@ -59,7 +59,7 @@ If you find any issues with the app or have suggestions for improvements, please
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/MGJillaniMughal/Harvestify-Full-End-to-End-Project/blob/master/LICENSE).
+This project is licensed under the [MIT License](https://github.com/alkitrend/Harvestify-Full-End-to-End-Project/blob/master/LICENSE).
 
 ## Acknowledgments
 
